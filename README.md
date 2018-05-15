@@ -49,6 +49,10 @@ Each directory contains at least this folders. __Examples__ of the contents are 
    * Prefabs/
 		* Prefab1.prefab
     	* Prefab2.prefab
+   * Scripts/
+        * CharacterX/
+     	   * characterController.cs
+     	* otherScript.cs
       
  * README.md
 
