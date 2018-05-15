@@ -51,3 +51,12 @@ Each directory contains at least this folders. __Examples__ of the contents are 
     	* Prefab2.prefab
       
  * README.md
+
+# Contribution
+
+This repository works with Pull Request. Adress it to sam-ji.
+
+The naming convention for folders and files is shown in the [Project Structure](#ProjectStructure) section.
+
+For coding, camelCase is must in most cases. Start a discussion for exceptions to that rule 
+
