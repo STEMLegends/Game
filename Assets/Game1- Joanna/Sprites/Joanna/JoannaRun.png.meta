@@ -1,0 +1,5607 @@
+fileFormatVersion: 2
+guid: a3cd12e9b79a7411daca361145ad7411
+timeCreated: 1526400104
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JoannaRun_0
+    21300002: JoannaRun_1
+    21300004: JoannaRun_2
+    21300006: JoannaRun_3
+    21300008: JoannaRun_4
+    21300010: JoannaRun_5
+    21300012: JoannaRun_6
+    21300014: JoannaRun_7
+    21300016: JoannaRun_8
+    21300018: JoannaRun_9
+    21300020: JoannaRun_10
+    21300022: JoannaRun_11
+    21300024: JoannaRun_12
+    21300026: JoannaRun_13
+    21300028: JoannaRun_14
+    21300030: JoannaRun_15
+    21300032: JoannaRun_16
+    21300034: JoannaRun_17
+    21300036: JoannaRun_18
+    21300038: JoannaRun_19
+    21300040: JoannaRun_20
+    21300042: JoannaRun_21
+    21300044: JoannaRun_22
+    21300046: JoannaRun_23
+    21300048: JoannaRun_24
+    21300050: JoannaRun_25
+    21300052: JoannaRun_26
+    21300054: JoannaRun_27
+    21300056: JoannaRun_28
+    21300058: JoannaRun_29
+    21300060: JoannaRun_30
+    21300062: JoannaRun_31
+    21300064: JoannaRun_32
+    21300066: JoannaRun_33
+    21300068: JoannaRun_34
+    21300070: JoannaRun_35
+    21300072: JoannaRun_36
+    21300074: JoannaRun_37
+    21300076: JoannaRun_38
+    21300078: JoannaRun_39
+    21300080: JoannaRun_40
+    21300082: JoannaRun_41
+    21300084: JoannaRun_42
+    21300086: JoannaRun_43
+    21300088: JoannaRun_44
+    21300090: JoannaRun_45
+    21300092: JoannaRun_46
+    21300094: JoannaRun_47
+    21300096: JoannaRun_48
+    21300098: JoannaRun_49
+    21300100: JoannaRun_50
+    21300102: JoannaRun_51
+    21300104: JoannaRun_52
+    21300106: JoannaRun_53
+    21300108: JoannaRun_54
+    21300110: JoannaRun_55
+    21300112: JoannaRun_56
+    21300114: JoannaRun_57
+    21300116: JoannaRun_58
+    21300118: JoannaRun_59
+    21300120: JoannaRun_60
+    21300122: JoannaRun_61
+    21300124: JoannaRun_62
+    21300126: JoannaRun_63
+    21300128: JoannaRun_64
+    21300130: JoannaRun_65
+    21300132: JoannaRun_66
+    21300134: JoannaRun_67
+    21300136: JoannaRun_68
+    21300138: JoannaRun_69
+    21300140: JoannaRun_70
+    21300142: JoannaRun_71
+    21300144: JoannaRun_72
+    21300146: JoannaRun_73
+    21300148: JoannaRun_74
+    21300150: JoannaRun_75
+    21300152: JoannaRun_76
+    21300154: JoannaRun_77
+    21300156: JoannaRun_78
+    21300158: JoannaRun_79
+    21300160: JoannaRun_80
+    21300162: JoannaRun_81
+    21300164: JoannaRun_82
+    21300166: JoannaRun_83
+    21300168: JoannaRun_84
+    21300170: JoannaRun_85
+    21300172: JoannaRun_86
+    21300174: JoannaRun_87
+    21300176: JoannaRun_88
+    21300178: JoannaRun_89
+    21300180: JoannaRun_90
+    21300182: JoannaRun_91
+    21300184: JoannaRun_92
+    21300186: JoannaRun_93
+    21300188: JoannaRun_94
+    21300190: JoannaRun_95
+    21300192: JoannaRun_96
+    21300194: JoannaRun_97
+    21300196: JoannaRun_98
+    21300198: JoannaRun_99
+    21300200: JoannaRun_100
+    21300202: JoannaRun_101
+    21300204: JoannaRun_102
+    21300206: JoannaRun_103
+    21300208: JoannaRun_104
+    21300210: JoannaRun_105
+    21300212: JoannaRun_106
+    21300214: JoannaRun_107
+    21300216: JoannaRun_108
+    21300218: JoannaRun_109
+    21300220: JoannaRun_110
+    21300222: JoannaRun_111
+    21300224: JoannaRun_112
+    21300226: JoannaRun_113
+    21300228: JoannaRun_114
+    21300230: JoannaRun_115
+    21300232: JoannaRun_116
+    21300234: JoannaRun_117
+    21300236: JoannaRun_118
+    21300238: JoannaRun_119
+    21300240: JoannaRun_120
+    21300242: JoannaRun_121
+    21300244: JoannaRun_122
+    21300246: JoannaRun_123
+    21300248: JoannaRun_124
+    21300250: JoannaRun_125
+    21300252: JoannaRun_126
+    21300254: JoannaRun_127
+    21300256: JoannaRun_128
+    21300258: JoannaRun_129
+    21300260: JoannaRun_130
+    21300262: JoannaRun_131
+    21300264: JoannaRun_132
+    21300266: JoannaRun_133
+    21300268: JoannaRun_134
+    21300270: JoannaRun_135
+    21300272: JoannaRun_136
+    21300274: JoannaRun_137
+    21300276: JoannaRun_138
+    21300278: JoannaRun_139
+    21300280: JoannaRun_140
+    21300282: JoannaRun_141
+    21300284: JoannaRun_142
+    21300286: JoannaRun_143
+    21300288: JoannaRun_144
+    21300290: JoannaRun_145
+    21300292: JoannaRun_146
+    21300294: JoannaRun_147
+    21300296: JoannaRun_148
+    21300298: JoannaRun_149
+    21300300: JoannaRun_150
+    21300302: JoannaRun_151
+    21300304: JoannaRun_152
+    21300306: JoannaRun_153
+    21300308: JoannaRun_154
+    21300310: JoannaRun_155
+    21300312: JoannaRun_156
+    21300314: JoannaRun_157
+    21300316: JoannaRun_158
+    21300318: JoannaRun_159
+    21300320: JoannaRun_160
+    21300322: JoannaRun_161
+    21300324: JoannaRun_162
+    21300326: JoannaRun_163
+    21300328: JoannaRun_164
+    21300330: JoannaRun_165
+    21300332: JoannaRun_166
+    21300334: JoannaRun_167
+    21300336: JoannaRun_168
+    21300338: JoannaRun_169
+    21300340: JoannaRun_170
+    21300342: JoannaRun_171
+    21300344: JoannaRun_172
+    21300346: JoannaRun_173
+    21300348: JoannaRun_174
+    21300350: JoannaRun_175
+    21300352: JoannaRun_176
+    21300354: JoannaRun_177
+    21300356: JoannaRun_178
+    21300358: JoannaRun_179
+    21300360: JoannaRun_180
+    21300362: JoannaRun_181
+    21300364: JoannaRun_182
+    21300366: JoannaRun_183
+    21300368: JoannaRun_184
+    21300370: JoannaRun_185
+    21300372: JoannaRun_186
+    21300374: JoannaRun_187
+    21300376: JoannaRun_188
+    21300378: JoannaRun_189
+    21300380: JoannaRun_190
+    21300382: JoannaRun_191
+    21300384: JoannaRun_192
+    21300386: JoannaRun_193
+    21300388: JoannaRun_194
+    21300390: JoannaRun_195
+    21300392: JoannaRun_196
+    21300394: JoannaRun_197
+    21300396: JoannaRun_198
+    21300398: JoannaRun_199
+    21300400: JoannaRun_200
+    21300402: JoannaRun_201
+    21300404: JoannaRun_202
+    21300406: JoannaRun_203
+    21300408: JoannaRun_204
+    21300410: JoannaRun_205
+    21300412: JoannaRun_206
+    21300414: JoannaRun_207
+    21300416: JoannaRun_208
+    21300418: JoannaRun_209
+    21300420: JoannaRun_210
+    21300422: JoannaRun_211
+    21300424: JoannaRun_212
+    21300426: JoannaRun_213
+    21300428: JoannaRun_214
+    21300430: JoannaRun_215
+    21300432: JoannaRun_216
+    21300434: JoannaRun_217
+    21300436: JoannaRun_218
+    21300438: JoannaRun_219
+    21300440: JoannaRun_220
+    21300442: JoannaRun_221
+    21300444: JoannaRun_222
+    21300446: JoannaRun_223
+    21300448: JoannaRun_224
+    21300450: JoannaRun_225
+    21300452: JoannaRun_226
+    21300454: JoannaRun_227
+    21300456: JoannaRun_228
+    21300458: JoannaRun_229
+    21300460: JoannaRun_230
+    21300462: JoannaRun_231
+    21300464: JoannaRun_232
+    21300466: JoannaRun_233
+    21300468: JoannaRun_234
+    21300470: JoannaRun_235
+    21300472: JoannaRun_236
+    21300474: JoannaRun_237
+    21300476: JoannaRun_238
+    21300478: JoannaRun_239
+    21300480: JoannaRun_240
+    21300482: JoannaRun_241
+    21300484: JoannaRun_242
+    21300486: JoannaRun_243
+    21300488: JoannaRun_244
+    21300490: JoannaRun_245
+    21300492: JoannaRun_246
+    21300494: JoannaRun_247
+    21300496: JoannaRun_248
+    21300498: JoannaRun_249
+    21300500: JoannaRun_250
+    21300502: JoannaRun_251
+    21300504: JoannaRun_252
+    21300506: JoannaRun_253
+    21300508: JoannaRun_254
+    21300510: JoannaRun_255
+    21300512: JoannaRun_256
+    21300514: JoannaRun_257
+    21300516: JoannaRun_258
+    21300518: JoannaRun_259
+    21300520: JoannaRun_260
+    21300522: JoannaRun_261
+    21300524: JoannaRun_262
+    21300526: JoannaRun_263
+    21300528: JoannaRun_264
+    21300530: JoannaRun_265
+    21300532: JoannaRun_266
+    21300534: JoannaRun_267
+    21300536: JoannaRun_268
+    21300538: JoannaRun_269
+    21300540: JoannaRun_270
+    21300542: JoannaRun_271
+    21300544: JoannaRun_272
+    21300546: JoannaRun_273
+    21300548: JoannaRun_274
+    21300550: JoannaRun_275
+    21300552: JoannaRun_276
+    21300554: JoannaRun_277
+    21300556: JoannaRun_278
+    21300558: JoannaRun_279
+    21300560: JoannaRun_280
+    21300562: JoannaRun_281
+    21300564: JoannaRun_282
+    21300566: JoannaRun_283
+    21300568: JoannaRun_284
+    21300570: JoannaRun_285
+    21300572: JoannaRun_286
+    21300574: JoannaRun_287
+    21300576: JoannaRun_288
+    21300578: JoannaRun_289
+    21300580: JoannaRun_290
+    21300582: JoannaRun_291
+    21300584: JoannaRun_292
+    21300586: JoannaRun_293
+    21300588: JoannaRun_294
+    21300590: JoannaRun_295
+    21300592: JoannaRun_296
+    21300594: JoannaRun_297
+    21300596: JoannaRun_298
+    21300598: JoannaRun_299
+    21300600: JoannaRun_300
+    21300602: JoannaRun_301
+    21300604: JoannaRun_302
+    21300606: JoannaRun_303
+    21300608: JoannaRun_304
+    21300610: JoannaRun_305
+    21300612: JoannaRun_306
+    21300614: JoannaRun_307
+    21300616: JoannaRun_308
+    21300618: JoannaRun_309
+    21300620: JoannaRun_310
+    21300622: JoannaRun_311
+    21300624: JoannaRun_312
+    21300626: JoannaRun_313
+    21300628: JoannaRun_314
+    21300630: JoannaRun_315
+    21300632: JoannaRun_316
+    21300634: JoannaRun_317
+    21300636: JoannaRun_318
+    21300638: JoannaRun_319
+    21300640: JoannaRun_320
+    21300642: JoannaRun_321
+    21300644: JoannaRun_322
+    21300646: JoannaRun_323
+    21300648: JoannaRun_324
+    21300650: JoannaRun_325
+    21300652: JoannaRun_326
+    21300654: JoannaRun_327
+    21300656: JoannaRun_328
+    21300658: JoannaRun_329
+    21300660: JoannaRun_330
+    21300662: JoannaRun_331
+    21300664: JoannaRun_332
+    21300666: JoannaRun_333
+    21300668: JoannaRun_334
+    21300670: JoannaRun_335
+    21300672: JoannaRun_336
+    21300674: JoannaRun_337
+    21300676: JoannaRun_338
+    21300678: JoannaRun_339
+    21300680: JoannaRun_340
+    21300682: JoannaRun_341
+    21300684: JoannaRun_342
+    21300686: JoannaRun_343
+    21300688: JoannaRun_344
+    21300690: JoannaRun_345
+    21300692: JoannaRun_346
+    21300694: JoannaRun_347
+    21300696: JoannaRun_348
+    21300698: JoannaRun_349
+    21300700: JoannaRun_350
+    21300702: JoannaRun_351
+    21300704: JoannaRun_352
+    21300706: JoannaRun_353
+    21300708: JoannaRun_354
+    21300710: JoannaRun_355
+    21300712: JoannaRun_356
+    21300714: JoannaRun_357
+    21300716: JoannaRun_358
+    21300718: JoannaRun_359
+    21300720: JoannaRun_360
+    21300722: JoannaRun_361
+    21300724: JoannaRun_362
+    21300726: JoannaRun_363
+    21300728: JoannaRun_364
+    21300730: JoannaRun_365
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JoannaRun_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3355
+        width: 558
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_1
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3925
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_2
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 3407
+        width: 516
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_3
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 3923
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_4
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 3439
+        width: 592
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_5
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 3933
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_6
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 3441
+        width: 587
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_7
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 3933
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_8
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 3744
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3738
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3724
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_11
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3730
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_12
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 3716
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_13
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3706
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3696
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3686
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_16
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 3668
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_17
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3676
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_18
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3668
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3666
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_20
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 3648
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_21
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 3660
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3646
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3648
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3650
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_25
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 3650
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3634
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_27
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3638
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_28
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 3640
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_29
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3630
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_30
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 3634
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3622
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_32
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 3624
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_33
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 3626
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_34
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3616
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_35
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 3620
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3610
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_37
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3610
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3598
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3586
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3574
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3562
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3550
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3538
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3526
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3514
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_46
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3502
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_47
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3490
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3478
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_49
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3466
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_50
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3458
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2661
+        width: 487
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_52
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3177
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_53
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2696
+        width: 522
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_54
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 3184
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_55
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2655
+        width: 518
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_56
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 3189
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_57
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2701
+        width: 591
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_58
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 3193
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_59
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3112
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3092
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3072
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3056
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3044
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_64
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2998
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_65
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2996
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_66
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3002
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_67
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 2990
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_68
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 2982
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_69
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 2972
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_70
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2962
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_71
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2952
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_72
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 2942
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_73
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2932
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_74
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2930
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_75
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2920
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_76
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2910
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_77
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2900
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_78
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2890
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_79
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2884
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_80
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2878
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2832
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_82
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2804
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_83
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2794
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_84
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2786
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_85
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2776
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_86
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2766
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_87
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2758
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2748
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2738
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2728
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_91
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2722
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2714
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_93
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2706
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_94
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2698
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_95
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2690
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_96
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2688
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_97
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2688
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_98
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2682
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_99
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2680
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_100
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2676
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_101
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_102
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2674
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_103
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2668
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_104
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2668
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_105
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2666
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2660
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_107
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2654
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_108
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2660
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_109
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2658
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_110
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2652
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_111
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2652
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_112
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2648
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2636
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_114
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2646
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_115
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2646
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_116
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2636
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_117
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2638
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_118
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2638
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_119
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2628
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_120
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2626
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_121
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2630
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_122
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2628
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2622
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_124
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2618
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_125
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2624
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_126
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 2620
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_127
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2614
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_128
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2610
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1949
+        width: 546
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_130
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2437
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_131
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1911
+        width: 534
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_132
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 2437
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_133
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1259
+        width: 579
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_134
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 2449
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_135
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2322
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_136
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2304
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_137
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2288
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_138
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2270
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_139
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2254
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_140
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2234
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_141
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2236
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_142
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2234
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_143
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2202
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_144
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 2226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_145
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2218
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_146
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2208
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_147
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_148
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2186
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_149
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2190
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_150
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2172
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_151
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_152
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2142
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_153
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2028
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_154
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2020
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_155
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2012
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_156
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2002
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_157
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1994
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_158
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1984
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_159
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1976
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_160
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1968
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_161
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1958
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_162
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1952
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_163
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1942
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_164
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1934
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_165
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1924
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_166
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1926
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_167
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1916
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_168
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1918
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_169
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1906
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_170
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1910
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_171
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1910
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_172
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1902
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_173
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1898
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_174
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1902
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_175
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1898
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_176
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1888
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_177
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1894
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_178
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1892
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_179
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1880
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_180
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1886
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_181
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1886
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_182
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1884
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_183
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1882
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_184
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1880
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_185
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1876
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_186
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1882
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_187
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1880
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_188
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1880
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_189
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1878
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_190
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1876
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_191
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1876
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_192
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1874
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_193
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1872
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_194
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1868
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_195
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1874
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_196
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1872
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_197
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1870
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_198
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1868
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_199
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1870
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_200
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1868
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_201
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1868
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_202
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1862
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_203
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1860
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1123
+        width: 553
+        height: 739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_205
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1200
+        width: 557
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_206
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1749
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_207
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1680
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_208
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1679
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_209
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1562
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_210
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1542
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_211
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1530
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_212
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1524
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_213
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1508
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_214
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1504
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_215
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1500
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_216
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1486
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_217
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1486
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_218
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1490
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_219
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1464
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_220
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1466
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_221
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1442
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_222
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1452
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_223
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1450
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_224
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1418
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_225
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1420
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_226
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1430
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_227
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1416
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_228
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1408
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_229
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1402
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_230
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1394
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_231
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1390
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_232
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1378
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_233
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1378
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_234
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1366
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_235
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1358
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_236
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1286
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_237
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1276
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_238
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1268
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_239
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1260
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_240
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1252
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_241
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1242
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_242
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1232
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_243
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_244
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1208
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_245
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_246
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1190
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_247
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_248
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1174
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_249
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1174
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_250
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1166
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_251
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1164
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_252
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1158
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_253
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_254
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_255
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_256
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_257
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1140
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_258
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1132
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_259
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1130
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_260
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_261
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_262
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1112
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_263
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1116
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_264
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_265
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_266
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1104
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_267
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 407
+        width: 504
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_268
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_269
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1100
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_270
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 439
+        width: 521
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_271
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1088
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_272
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1088
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_273
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1088
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_274
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1088
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_275
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1088
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_276
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1090
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_277
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1090
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_278
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1090
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_279
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1090
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_280
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1090
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_281
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1090
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_282
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1090
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_283
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1090
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_284
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1090
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_285
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1092
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_286
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1088
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_287
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1088
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 552
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_289
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 912
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_290
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 933
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_291
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 948
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_292
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 854
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_293
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 834
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_294
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 818
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_295
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 802
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_296
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 784
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_297
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 764
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_298
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 770
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_299
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 752
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_300
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 758
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_301
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 746
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_302
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 738
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_303
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 746
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_304
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 728
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_305
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 728
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_306
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 710
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_307
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 718
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_308
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 708
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_309
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 706
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_310
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 694
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_311
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 694
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_312
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 698
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_313
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 688
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_314
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 672
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_315
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 660
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_316
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 646
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_317
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 632
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_318
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 618
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_319
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 606
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_320
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 514
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_321
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 506
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_322
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_323
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 488
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_324
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 480
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_325
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 470
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_326
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 462
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_327
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 460
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_328
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 452
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_329
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 446
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_330
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 436
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_331
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_332
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 406
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_333
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 410
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_334
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 398
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_335
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 402
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_336
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_337
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 400
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_338
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 388
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_339
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 394
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_340
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 394
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_341
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 392
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_342
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 380
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_343
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_344
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 378
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_345
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 382
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_346
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 372
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_347
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 378
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_348
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 372
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_349
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 370
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_350
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 372
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_351
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 364
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_352
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 362
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_353
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 364
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_354
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 362
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_355
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 354
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_356
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 352
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_357
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 356
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_358
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_359
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 346
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_360
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 344
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_361
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 348
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_362
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 344
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_363
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 338
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_364
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1449
+        width: 433
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoannaRun_365
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 630
+        width: 2022
+        height: 1998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

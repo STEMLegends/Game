@@ -1,0 +1,39 @@
+Initialize engine version: 5.3.8p2 (702ec25c6a03)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   NVIDIA
+    VRAM:     2997 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\David\Documents\Stem4Girls\stem4girls_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\David\Documents\Stem4Girls\stem4girls_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Stem4Girls\stem4girls_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\David\Documents\Stem4Girls\stem4girls_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Stem4Girls\stem4girls_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\David\Documents\Stem4Girls\stem4girls_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Stem4Girls\stem4girls_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\David\Documents\Stem4Girls\stem4girls_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+Platform assembly: C:\Users\David\Documents\Stem4Girls\stem4girls_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Stem4Girls\stem4girls_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.522809 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.127291 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 386.
+Total: 0.800142 ms (FindLiveObjects: 0.054044 ms CreateObjectMapping: 0.013084 ms MarkObjects: 0.720213 ms  DeleteObjects: 0.012515 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.834276 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 236.
+Total: 5.043487 ms (FindLiveObjects: 0.025600 ms CreateObjectMapping: 0.015644 ms MarkObjects: 0.180906 ms  DeleteObjects: 4.820482 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2808 -> priority: 1 
+  Thread -> id: 23dc -> priority: 1 
