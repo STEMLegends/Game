@@ -1,3 +1,4 @@
+![cabecera](https://raw.githubusercontent.com/legendsOfSTEM/LegendsOfStem/master/img/cabecera3.png)
 # Project structure
 
 The project base structure in its first level is:
