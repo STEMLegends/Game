@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GCS_PlayingMinigame : StateGeneric<GameController> {
+public class GCS_PlayingMinigame : GCS_GameControllerState
+{
 
 
     public override void Enter()
-{
-        m_target.m_references.m_userControl.enabled = true;
-}
+    {
+        
+    }
 }
