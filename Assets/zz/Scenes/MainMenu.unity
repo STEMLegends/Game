@@ -1007,6 +1007,7 @@ MonoBehaviour:
   m_references:
     m_mainMenu: {fileID: 1358071893}
     m_difficultyMenu: {fileID: 346228804}
+    m_difficultyText: {fileID: 420277516}
 --- !u!1 &1358071893
 GameObject:
   m_ObjectHideFlags: 0
@@ -1406,7 +1407,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1274609629}
-        m_MethodName: LSTR_GoToDifficulty
+        m_MethodName: LSTR_SwitchDifficulty
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
