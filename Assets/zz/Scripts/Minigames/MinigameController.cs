@@ -71,6 +71,7 @@ public class MinigameController : MonoBehaviour {
         m_states.m_inMinigame = ScriptableObject.CreateInstance<MCS_InMinigame>().Init(this) as MCS_InMinigame;
         m_states.m_resolved = ScriptableObject.CreateInstance<MCS_Resolved>().Init(this) as MCS_Resolved;
 
+        m_gameController = FindObjectOfType<GameController>();
     }
     public delegate void PlayerEntersMinigame();
     public event PlayerEntersMinigame OnPlayerEnterMinigame;
@@ -82,7 +83,8 @@ public class MinigameController : MonoBehaviour {
     public
     MinigameControllerStencils m_stencils;
 
-
+    [HideInInspector]
+    public GameController m_gameController;
 
     [System.Serializable]
     public class MinigameControllerReferences
