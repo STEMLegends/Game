@@ -5,7 +5,11 @@ using UnityEngine.UI;
 
 public class QuestionSerieController : MinigameRulesController
 {
-
+    public void LSTR_CloseDescriptionAndStart ()
+    {
+        m_references.m_gameContainer.SetActive(true);
+        m_references.m_descriptionContainer.SetActive(false);
+    }
 
 
     public void BH_LoadNewQuestion ()
@@ -54,6 +58,9 @@ public class QuestionSerieController : MinigameRulesController
         m_currentAnswers = 0;
         m_references.m_questionCounter.text = "Respuestas " + m_currentAnswers + "/" + m_requiredAnswers;
 
+        m_references.m_gameContainer.SetActive(false);
+        m_references.m_descriptionContainer.SetActive(true);
+
     }
 
     private void Start()
@@ -83,7 +90,8 @@ public class QuestionSerieController : MinigameRulesController
         public Text m_questionCounter;
         public Text[] m_availableAnswers;
 
-        public QuestionsListScriptableData m_questionsData;
+        public GameObject m_descriptionContainer;
+        public GameObject m_gameContainer;
     }
 
     
