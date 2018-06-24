@@ -18,6 +18,7 @@ public class MinigameController : MonoBehaviour {
     }
     #endregion
 
+    
     #region state management
     private void SM_GoToState(MCS_MinigameControllerState newState)
     {
@@ -44,18 +45,20 @@ public class MinigameController : MonoBehaviour {
    
     #endregion
 
-    #region Behaviours
-   
-    public virtual void BH_StartMinigame ()
+    #region HANDLERS
+   public void HNDL_EndAsVictory()
     {
 
     }
 
-    public virtual void BH_ResolveMinigame()
-    {
-
-    }
+    public void HNDL_EndAsDefeat () { }
+    
     #endregion
+
+    public virtual void BH_FindTargetRules ()
+    {
+
+    }
 
     private void Update()
     {
@@ -72,9 +75,20 @@ public class MinigameController : MonoBehaviour {
         m_states.m_resolved = ScriptableObject.CreateInstance<MCS_Resolved>().Init(this) as MCS_Resolved;
 
         m_gameController = FindObjectOfType<GameController>();
+        m_rules = gameObject.GetComponent<IMinigameable>();
+
+        Debug.Log("");
+
     }
+    
+
+
+    
     public delegate void PlayerEntersMinigame();
     public event PlayerEntersMinigame OnPlayerEnterMinigame;
+
+
+    public IMinigameable m_rules;
 
     [SerializeField]
     MinigameControllerStates m_states;
@@ -90,6 +104,8 @@ public class MinigameController : MonoBehaviour {
     public class MinigameControllerReferences
     {
         public SpriteRenderer m_mainSprite;
+        public BoxCollider2D m_collider;
+        
     }
 
     [System.Serializable]
