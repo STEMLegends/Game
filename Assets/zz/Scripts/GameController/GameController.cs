@@ -48,7 +48,7 @@ public class GameController : MonoBehaviour {
 
     public GameControllerStates m_states;
     public GameControllerReferences m_references;
-
+   
 
 
 
@@ -58,6 +58,11 @@ public class GameController : MonoBehaviour {
         public PlatformerCharacter2D m_characterController;
     }
 
+    [System.Serializable]
+    public class DataContainers
+    {
+
+    }
     [System.Serializable]
     public class GameControllerStates
     {
