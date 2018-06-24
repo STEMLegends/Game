@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MinigameRulesController : MonoBehaviour {
 
-    public void LSTR_CloseDescriptionAndStart()
+    public virtual void LSTR_CloseDescriptionAndStart()
     {
         m_gameContainer.SetActive(true);
         m_descriptionContainer.SetActive(false);
@@ -18,7 +18,7 @@ public class MinigameRulesController : MonoBehaviour {
     }
 
 
-    private void Start()
+    public  virtual void Start()
     {
         gameObject.SetActive(false);
     }
