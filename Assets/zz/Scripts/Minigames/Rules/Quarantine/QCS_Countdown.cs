@@ -12,6 +12,7 @@ public class QCS_Countdown : QCS_QuarantineControllerStatus {
     public override void Exit()
     {
         m_target.m_references.m_countdownAnimator.gameObject.SetActive(false);
+        m_target.m_references.m_gameContainer.SetActive(true);
     }
 
 }
