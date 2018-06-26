@@ -28,6 +28,15 @@ public class QuarantineController : MinigameRulesController
         SM_GoToState(m_states.m_waitingForAnswer);
     }
     #endregion
+    public void LSTR_BtnSafe()
+    {
+        m_states.m_waitingForAnswer.HNDL_ReceiveResponse(QCS_WaitingForAnswer.QuarantineResponse.Safe);
+    }
+    public void LSTR_BtnDelete()
+    {
+        m_states.m_waitingForAnswer.HNDL_ReceiveResponse(QCS_WaitingForAnswer.QuarantineResponse.Delete);
+    }
+
 
     public override void LSTR_CloseDescriptionAndStart()
     {
@@ -68,7 +77,7 @@ public class QuarantineController : MinigameRulesController
     QuarantineControllerStates m_states;
     public
     QuarantineControllerReferences m_references;
-    [SerializeField]
+    public
     QuarantineControllerStencils m_stencils;
 
     [System.Serializable]
@@ -76,8 +85,10 @@ public class QuarantineController : MinigameRulesController
     {
         public Image m_fileImage;
         public Text m_counter;
+        public Text m_timer;
 
         public Animator m_countdownAnimator;
+        public GameObject m_gameContainer;
     }
 
     [System.Serializable]
