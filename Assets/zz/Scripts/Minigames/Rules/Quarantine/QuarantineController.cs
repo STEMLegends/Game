@@ -27,6 +27,11 @@ public class QuarantineController : MinigameRulesController
     {
         SM_GoToState(m_states.m_waitingForAnswer);
     }
+
+    public void SM_GoToInactive ()
+    {
+        SM_GoToState(m_states.m_inactive);
+    }
     #endregion
     public void LSTR_BtnSafe()
     {
@@ -62,12 +67,14 @@ public class QuarantineController : MinigameRulesController
         m_states.m_idle = ScriptableObject.CreateInstance<QCS_Idle>().Init(this) as QCS_Idle;
         m_states.m_countdown = ScriptableObject.CreateInstance<QCS_Countdown>().Init(this) as QCS_Countdown; 
         m_states.m_waitingForAnswer = ScriptableObject.CreateInstance<QCS_WaitingForAnswer>().Init(this) as QCS_WaitingForAnswer;
+        m_states.m_inactive = ScriptableObject.CreateInstance<QCS_Inactive>().Init(this) as QCS_Inactive;
     }
 
      public override void Start()
     {
         base.Start();
-        SM_GoToIdle();
+        //SM_GoToIdle();
+        SM_GoToInactive(); 
     }
     public int m_currentCounter;
     public int m_requiredCounter;
@@ -105,6 +112,7 @@ public class QuarantineController : MinigameRulesController
         public QCS_Idle m_idle;
         public QCS_Countdown m_countdown;
         public QCS_WaitingForAnswer m_waitingForAnswer;
+        public QCS_Inactive m_inactive;
     }
 
 }
