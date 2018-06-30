@@ -3382,7 +3382,7 @@ MonoBehaviour:
   m_caller: {fileID: 0}
   m_descriptionContainer: {fileID: 145312461}
   m_gameContainer: {fileID: 2131926327}
-  m_requiredAnswers: 2
+  m_requiredAnswers: 1
   m_currentAnswers: 0
   questionsInTheSerie: 0
   m_references:
@@ -4078,7 +4078,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9becbf68c1295e4682360432c3a8a06, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_questionListData: {fileID: 11400000, guid: c01044661718c324dbea9f6ad34ca5ee, type: 2}
+  m_questionListDataEasySource: {fileID: 11400000, guid: c01044661718c324dbea9f6ad34ca5ee,
+    type: 2}
+  m_questionListDataHardSource: {fileID: 11400000, guid: 2398ae7b7248b6b47a4e3291031b2429,
+    type: 2}
   m_allQuestions: []
 --- !u!4 &2025578512
 Transform:

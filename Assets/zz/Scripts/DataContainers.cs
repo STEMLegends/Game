@@ -18,16 +18,27 @@ public class DataContainers : Singleton <DataContainers> {
         return m_randomQuestion;
     }
 
-
+    
 
     void FeedQuestionlist ()
     {
-        foreach (QuestionScriptableData item in m_questionListData.m_questionsList)
+        if (PlayerPrefs.GetString("Difficulty") == "Easy")
         {
-            m_allQuestions.Add(item);
+            foreach (QuestionScriptableData item in m_questionListDataEasySource.m_questionsList)
+            {
+                m_allQuestions.Add(item);
+            }
+        }
+        else if (PlayerPrefs.GetString("Difficulty") == "Hard")
+        {
+            foreach (QuestionScriptableData item in m_questionListDataHardSource.m_questionsList)
+            {
+                m_allQuestions.Add(item);
+            }
         }
 
-        Debug.Log("-----");
+
+            Debug.Log("-----");
     }
 
 
@@ -38,9 +49,13 @@ public class DataContainers : Singleton <DataContainers> {
     {
         
         FeedQuestionlist();
+
     }
     [SerializeField]
-    QuestionsListScriptableData m_questionListData;
+    QuestionsListScriptableData m_questionListDataEasySource;
+    [SerializeField]
+    QuestionsListScriptableData m_questionListDataHardSource;
+
     public List<QuestionScriptableData> m_allQuestions = new List<QuestionScriptableData>();
 
 }
