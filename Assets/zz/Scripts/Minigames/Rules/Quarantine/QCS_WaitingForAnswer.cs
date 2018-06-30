@@ -6,7 +6,8 @@ public class QCS_WaitingForAnswer : QCS_QuarantineControllerStatus {
 
     public override void Enter()
     {
-        m_endOfCountdown = Time.time + 1.5f;
+        m_target.m_gameContainer.SetActive(true);
+        m_endOfCountdown = Time.time + 45f;
         //here calculate and show the file (corrupted or safe)
         m_thisResponse = (QuarantineResponse)Random.Range(0, 2);
         BH_SetSprites();
@@ -52,7 +53,12 @@ public class QCS_WaitingForAnswer : QCS_QuarantineControllerStatus {
     private void BH_ResolveAsHit() {
         m_target.m_currentCounter++;
         if (m_target.m_currentCounter >= m_target.m_requiredCounter)
+        {
             Debug.Log("Go to state game won"); //where the minigame will deactivate itself
+            
+            m_target.m_caller.SM_GoToResolved();
+            m_target.SM_GoToInactive();
+        }
         else
             m_target.SM_GoToCountDown();
 
