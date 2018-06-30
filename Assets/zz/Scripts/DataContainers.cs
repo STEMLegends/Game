@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class DataContainers : Singleton <DataContainers> {
 
+    protected DataContainers() { }
 
     public QuestionScriptableData HNDL_GetRandomQuestion ()
     {
@@ -35,7 +36,7 @@ public class DataContainers : Singleton <DataContainers> {
 
     private void Start()
     {
-        DontDestroyOnLoad(this.gameObject);
+        
         FeedQuestionlist();
     }
     [SerializeField]
