@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ad2c840b574281458725c8ff238925e, type: 3}
-  m_Name: __NewQuestionList__
+  m_Name: QuestionlistEasy
   m_EditorClassIdentifier: 
   m_questionsList:
   - {fileID: 11400000, guid: fb7e635688648344bb53687c2133a43c, type: 2}

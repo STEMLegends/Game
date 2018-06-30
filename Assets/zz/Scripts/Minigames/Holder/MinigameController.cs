@@ -105,6 +105,7 @@ public class MinigameController : MonoBehaviour {
     {
         public SpriteRenderer m_mainSprite;
         public BoxCollider2D m_collider;
+        public ParticleSystem m_particles;
         
     }
 
