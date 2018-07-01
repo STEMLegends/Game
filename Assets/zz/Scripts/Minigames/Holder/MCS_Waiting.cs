@@ -8,6 +8,7 @@ public class MCS_Waiting : MCS_MinigameControllerState {
     public override void Enter()
     {
         m_target.OnPlayerEnterMinigame += m_target.SM_GoToInMinigame;
+        m_target.m_references.m_particlesResolved.Stop();
     }
 
 
