@@ -5,12 +5,26 @@ using UnityEngine.UI;
 
 public class QuestionSerieController : MinigameRulesController
 {
-    
 
 
-    public void BH_LoadNewQuestion ()
+
+    public void BH_LoadNewQuestion()
     {
-        QuestionScriptableData randomQuestion = DataContainers.Instance.HNDL_GetRandomQuestion();
+        QuestionScriptableData randomQuestion;
+        switch (m_currentSerieType) {
+            case QuestionMinigameType.Grammar:
+                randomQuestion = DataContainers.Instance.HNDL_GetRandomQuestion();
+                break;
+
+            case QuestionMinigameType.Formula:
+                randomQuestion = DataContainers.Instance.HNDL_GetRandomFormula();
+                break;
+
+            default:
+                randomQuestion = new QuestionScriptableData();
+                break;
+        }
+
         m_references.m_questionText.text = randomQuestion.m_question;
         for (int i = 0; i < randomQuestion.m_answer.Length; i++)
         {
@@ -46,20 +60,20 @@ public class QuestionSerieController : MinigameRulesController
         //TODO:: on scene load, load ALL data from the scriptable in a list
     }
 
-    public override void Initialize(MinigameController whoCalled)
+    public void Initialize(MinigameController whoCalled, QuestionSerieController.QuestionMinigameType callerType)
     {
         base.Initialize(whoCalled);
-        
+        m_currentSerieType = callerType;
         BH_LoadNewQuestion();
         m_currentAnswers = 0;
         m_references.m_questionCounter.text = "Respuestas " + m_currentAnswers + "/" + m_requiredAnswers;
-
+        
         
 
     }
 
-   
 
+    public QuestionMinigameType m_currentSerieType;
     public int m_requiredAnswers = 2;
     public int m_currentAnswers = 0;
     int m_currentQuestionRightAnswer;
@@ -85,5 +99,5 @@ public class QuestionSerieController : MinigameRulesController
         
     }
 
-    
+    public enum QuestionMinigameType { NoneYet,Grammar, Formula };
 }

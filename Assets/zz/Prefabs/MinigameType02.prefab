@@ -37,7 +37,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1786752684950182}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.11, y: 2.02, z: 0}
+  m_LocalPosition: {x: 10.67, y: 1.79, z: 0}
   m_LocalScale: {x: 1.7715329, y: 1.7715304, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -98,6 +98,7 @@ MonoBehaviour:
   m_references:
     m_mainSprite: {fileID: 212497822496680928}
     m_collider: {fileID: 61305386850587334}
+    m_particles: {fileID: 0}
   m_stencils:
     m_resolvedSprite: {fileID: 21300000, guid: 9d7c6e4896067aa4fa512a00f692ac1c, type: 3}
   m_gameController: {fileID: 0}

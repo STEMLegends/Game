@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ad2c840b574281458725c8ff238925e, type: 3}
+  m_Name: FormulaListEasy
+  m_EditorClassIdentifier: 
+  m_questionsList:
+  - {fileID: 11400000, guid: fa9dd122a035f9e4c86e020f96763e07, type: 2}
+  - {fileID: 11400000, guid: 54d03bc954357f0449e6eb2a583ced7f, type: 2}
+  - {fileID: 11400000, guid: 37faa370984f7bc40ab46b33e0f8820a, type: 2}
+  - {fileID: 11400000, guid: af8c96aa084595143894fca804757421, type: 2}

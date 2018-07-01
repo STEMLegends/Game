@@ -80,8 +80,6 @@ public class MinigameController : MonoBehaviour {
         Debug.Log("");
 
     }
-    
-
 
     
     public delegate void PlayerEntersMinigame();
@@ -125,6 +123,6 @@ public class MinigameController : MonoBehaviour {
     }
 
 
-
+   
 
 }
