@@ -18,7 +18,17 @@ public class DataContainers : Singleton <DataContainers> {
         return m_randomQuestion;
     }
 
-    
+    public QuestionScriptableData HNDL_GetRandomFormula()
+    {
+        if (m_allFormulas.Count == 0)
+            FeedFormulalist();
+
+        int i = Random.Range(0, m_allFormulas.Count);
+        QuestionScriptableData m_randomFormula = m_allFormulas[i];
+        m_allFormulas.RemoveAt(i);
+        return m_randomFormula;
+    }
+
 
     void FeedQuestionlist ()
     {
@@ -41,7 +51,26 @@ public class DataContainers : Singleton <DataContainers> {
             Debug.Log("-----");
     }
 
+    void FeedFormulalist()
+    {
+        if (PlayerPrefs.GetString("Difficulty") == "Easy")
+        {
+            foreach (QuestionScriptableData item in m_formulaListDataEasySource.m_questionsList)
+            {
+                m_allFormulas.Add(item);
+            }
+        }
+        else if (PlayerPrefs.GetString("Difficulty") == "Hard")
+        {
+            foreach (QuestionScriptableData item in m_formulaListDataHardSource.m_questionsList)
+            {
+                m_allFormulas.Add(item);
+            }
+        }
 
+
+        Debug.Log("-----");
+    }
 
 
 
@@ -49,6 +78,7 @@ public class DataContainers : Singleton <DataContainers> {
     {
         
         FeedQuestionlist();
+        FeedFormulalist();
 
     }
     [SerializeField]
@@ -56,6 +86,13 @@ public class DataContainers : Singleton <DataContainers> {
     [SerializeField]
     QuestionsListScriptableData m_questionListDataHardSource;
 
+    [SerializeField]
+    QuestionsListScriptableData m_formulaListDataEasySource;
+    [SerializeField]
+    QuestionsListScriptableData m_formulaListDataHardSource;
+
+
     public List<QuestionScriptableData> m_allQuestions = new List<QuestionScriptableData>();
+    public List<QuestionScriptableData> m_allFormulas = new List<QuestionScriptableData>();
 
 }
