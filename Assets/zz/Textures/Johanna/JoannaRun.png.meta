@@ -126,10 +126,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 368
-        width: 650
+        width: 628
         height: 738
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -146,10 +146,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 1118
-        width: 650
+        width: 609
         height: 740
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -164,12 +164,12 @@ TextureImporter:
       name: JoannaRun_2
       rect:
         serializedVersion: 2
-        x: 595
+        x: 581
         y: 391
         width: 650
         height: 740
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,7 +189,7 @@ TextureImporter:
         width: 650
         height: 740
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -204,12 +204,12 @@ TextureImporter:
       name: JoannaRun_4
       rect:
         serializedVersion: 2
-        x: 1251
-        y: 419
+        x: 1242
+        y: 424
         width: 650
         height: 740
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -224,13 +224,13 @@ TextureImporter:
       name: JoannaRun_5
       rect:
         serializedVersion: 2
-        x: 632
+        x: 670
         y: 3356
-        width: 650
+        width: 612
         height: 740
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 31, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
