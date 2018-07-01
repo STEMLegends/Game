@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87d3233d80d419a4d8eba37a3a3e2db1, type: 3}
   m_Name: __FormulaHard__2
   m_EditorClassIdentifier: 
-  m_question: Question3HARD
+  m_question: FORMULA HARD  2
   m_answer:
   - answer 3-a
   - answer 3-b
