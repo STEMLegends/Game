@@ -164,7 +164,7 @@ MonoBehaviour:
     m_particles: {fileID: 198367458937629954}
     m_particlesResolved: {fileID: 198448240865205708}
   m_stencils:
-    m_resolvedSprite: {fileID: 21300000, guid: 9d7c6e4896067aa4fa512a00f692ac1c, type: 3}
+    m_resolvedSprite: {fileID: 0}
   m_gameController: {fileID: 0}
 --- !u!198 &198367458937629954
 ParticleSystem:
@@ -9375,7 +9375,7 @@ SpriteRenderer:
   m_SortingLayerID: -1783731295
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: 8fb98a6035269e64a998f9b56828fc4f, type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -9383,5 +9383,5 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
