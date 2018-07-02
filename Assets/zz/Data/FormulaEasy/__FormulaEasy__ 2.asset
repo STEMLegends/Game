@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_question: FORMULA easy 2
   m_answer:
-  - answer 3-a
-  - answer 3-b
-  - answer 3-c
-  - answer 3-d
-  m_idRightAnswer: 0
+  - '2 x 4 = 8 '
+  - 7 x 3 = 19
+  - 7 + 10 + 1 = 18
+  - 3 - 2 + 5 = 6
+  m_idRightAnswer: 1

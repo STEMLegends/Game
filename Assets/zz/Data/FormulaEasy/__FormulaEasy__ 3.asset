@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_question: FORMULA easy 3
   m_answer:
-  - answer 4-a
-  - answer 4-b
-  - answer 4-c
-  - answer 4-d
-  m_idRightAnswer: 0
+  - 6 + 7 = 13
+  - 4 x 3 = 12
+  - 5 + 2 + 7 = 14
+  - 3 + 3 + 2 = 9
+  m_idRightAnswer: 3

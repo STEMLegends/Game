@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_question: FORMULA easy 1
   m_answer:
-  - answer 2-a
-  - answer 2-b
-  - answer 2-c
-  - answer 2-d
-  m_idRightAnswer: 0
+  - 20 + 25 = 45
+  - 9 + 9 + 1 = 19
+  - 4 x 6 = 26
+  - 2 + 3 + 4 = 9
+  m_idRightAnswer: 2
