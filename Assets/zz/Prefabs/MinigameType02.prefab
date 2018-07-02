@@ -99,6 +99,7 @@ MonoBehaviour:
     m_mainSprite: {fileID: 212497822496680928}
     m_collider: {fileID: 61305386850587334}
     m_particles: {fileID: 0}
+    m_particlesResolved: {fileID: 0}
   m_stencils:
     m_resolvedSprite: {fileID: 21300000, guid: 9d7c6e4896067aa4fa512a00f692ac1c, type: 3}
   m_gameController: {fileID: 0}
