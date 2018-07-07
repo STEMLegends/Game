@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87d3233d80d419a4d8eba37a3a3e2db1, type: 3}
   m_Name: __FormulaEasy__ 3
   m_EditorClassIdentifier: 
-  m_question: FORMULA easy 3
+  m_question: Descubre el resultado incorrecto
   m_answer:
   - 6 + 7 = 13
   - 4 x 3 = 12

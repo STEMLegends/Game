@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87d3233d80d419a4d8eba37a3a3e2db1, type: 3}
   m_Name: __NewQuestion__ 1
   m_EditorClassIdentifier: 
-  m_question: Question2
+  m_question: Descubre el error
   m_answer:
   - "Dentro de unos a\xF1os me comprar\xE9 un choche"
   - Este verano me voy a la playa con mi familia
