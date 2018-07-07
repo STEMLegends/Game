@@ -7,7 +7,7 @@ public class QCS_WaitingForAnswer : QCS_QuarantineControllerStatus {
     public override void Enter()
     {
         m_target.m_gameContainer.SetActive(true);
-        m_endOfCountdown = Time.time + 45f;
+        m_endOfCountdown = Time.time + m_target.m_timeToSelect;
         //here calculate and show the file (corrupted or safe)
         m_thisResponse = (QuarantineResponse)Random.Range(0, 2);
         BH_SetSprites();
