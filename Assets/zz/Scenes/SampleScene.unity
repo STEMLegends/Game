@@ -1635,6 +1635,7 @@ MonoBehaviour:
   m_gameContainer: {fileID: 528270144}
   m_currentCounter: 0
   m_requiredCounter: 5
+  m_timeToSelect: 1.5
   m_states:
     m_current: {fileID: 0}
     m_idle: {fileID: 0}

@@ -23,7 +23,7 @@ public class QCS_WaitingForAnswer : QCS_QuarantineControllerStatus {
         if (Time.time > m_endOfCountdown)
         {
             m_target.Initialize(m_target.m_caller);
-            m_target.SM_GoToCountDown();
+			m_target.LSTR_CloseDescriptionAndStart();
         }else
         {
             //here add +1 to counter, check if finish. If so, end game successfully. If no, this.Enter to repeat
@@ -80,7 +80,7 @@ public class QCS_WaitingForAnswer : QCS_QuarantineControllerStatus {
     
 
 
-	public enum QuarantineResponse { Safe, Delete}
+	public enum QuarantineResponse { Safe, Delete }
 }
 
 
