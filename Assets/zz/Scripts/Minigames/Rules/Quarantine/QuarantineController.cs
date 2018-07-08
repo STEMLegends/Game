@@ -78,7 +78,8 @@ public class QuarantineController : MinigameRulesController
     }
     public int m_currentCounter;
     public int m_requiredCounter;
-
+    public float m_timeToSelect = 1.5f;
+        
 
     [SerializeField]
     QuarantineControllerStates m_states;

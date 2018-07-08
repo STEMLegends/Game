@@ -11,10 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87d3233d80d419a4d8eba37a3a3e2db1, type: 3}
   m_Name: __NewQuestion__
   m_EditorClassIdentifier: 
-  m_question: Question1
+  m_question: Descubre el error
   m_answer:
-  - answer 1-a
-  - answer 1-b
-  - answer 1-c
-  - answer 1-d
-  m_idRightAnswer: 0
+  - "El perro est\xE1 sentado mirando la pelota"
+  - Me gusta ir a pasear los domingos
+  - "Espero que aga buen tiempo ma\xF1ana"
+  - No me gustan las espinacas
+  m_idRightAnswer: 2
