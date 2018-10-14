@@ -459,6 +459,31 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+--- !u!1102 &1102107600990037214
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ZombieNoAnimation
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 07c0ee59a0ca90248a5143be55fd6443, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!1102 &1102272782851722176
 AnimatorState:
   serializedVersion: 5
@@ -687,16 +712,16 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102594043898834812}
-    m_Position: {x: 648, y: 132, z: 0}
+    m_Position: {x: 300, y: 192, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102547917608442718}
-    m_Position: {x: 168, y: 120, z: 0}
+    m_Position: {x: 132, y: 276, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102642398570009708}
-    m_Position: {x: 552, y: -60, z: 0}
+    m_Position: {x: 540, y: -36, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102635609596054508}
-    m_Position: {x: 252, y: -60, z: 0}
+    m_Position: {x: 240, y: -36, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102584966912405672}
     m_Position: {x: -24, y: -36, z: 0}
@@ -709,6 +734,9 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 1102425393613339190}
     m_Position: {x: 514.6394, y: 279.85, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102107600990037214}
+    m_Position: {x: 456, y: 564, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions:
   - {fileID: 1101696208423308026}
@@ -717,7 +745,7 @@ AnimatorStateMachine:
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: -276, y: 48, z: 0}
-  m_EntryPosition: {x: 144, y: 372, z: 0}
+  m_EntryPosition: {x: 180, y: 444, z: 0}
   m_ExitPosition: {x: 912, y: 132, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 1102547917608442718}
