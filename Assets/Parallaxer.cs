@@ -14,6 +14,8 @@ public class Parallaxer : MonoBehaviour {
 
     private void Start()
     {
+
+        transform.position = new Vector3(m_target.position.x, m_target.position.y, transform.position.z);
         m_initialOffset = transform.position - m_target.position;
     }
 
